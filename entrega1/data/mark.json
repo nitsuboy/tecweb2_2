@@ -1,0 +1,29 @@
+{
+    "ultimoId": 4,
+    "tarefas": [
+      {
+        "id": 1,
+        "titulo": "Agendar reunião com o cliente",
+        "criadaEm": "2025-05-03T09:00:00Z",
+        "concluida": true
+      },
+      {
+        "id": 2,
+        "titulo": "Redigir proposta comercial",
+        "criadaEm": "2025-05-04T13:30:00Z",
+        "concluida": false
+      },
+      {
+        "id": 3,
+        "titulo": "Organizar arquivos da pasta de projetos",
+        "criadaEm": "2025-05-05T16:45:00Z",
+        "concluida": true
+      },
+      {
+        "id": 4,
+        "titulo": "Atualizar perfil da empresa no LinkedIn",
+        "criadaEm": "2025-05-06T07:20:00Z",
+        "concluida": false
+      }
+    ]
+  }
